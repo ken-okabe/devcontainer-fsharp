@@ -17,7 +17,7 @@
 				"files.autoSaveDelay": 500,
 				"files.trimTrailingWhitespace": true,
 				"workbench.startupEditor": "none",
-				"workbench.colorTheme": "One Monokai",
+				"workbench.colorTheme": "Solarized Dark",
 				"workbench.colorCustomizations": {
 					"terminal.background":"#002b36"
 				},
@@ -49,7 +49,6 @@
 				"FSharp.showProjectExplorerIn": "explorer",
 			},
 			"extensions": [
-				"azemoh.one-monokai",
 				"Ionide.Ionide-fsharp",
 				"ms-dotnettools.csharp"
 			]
